@@ -21,12 +21,15 @@ https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxyzd1.cfg
   - сервер `8005` — вес 3  
 ### Проверка с доменным именем (`Host: example.local`)
 Запросы распределяются пропорционально весам
+
 <img width="601" height="292" alt="image" src="https://github.com/user-attachments/assets/8d887ae5-50f2-4def-978a-561e3407dbc7" />
 
 ### Проверка без доменного имени
 Запросы **не попадают** на взвешенные серверы
+
 <img width="597" height="295" alt="image" src="https://github.com/user-attachments/assets/318ec4ee-2dbc-42f2-82fd-e99e3681306a" />
 
+https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxy.cfg
 
 
 
