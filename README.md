@@ -9,7 +9,7 @@
 
 <img width="601" height="246" alt="image" src="https://github.com/user-attachments/assets/e1eab782-10d1-4a3d-b2e5-7da94e17de8e" />
 
-<img width="548" height="630" alt="image" src="https://github.com/user-attachments/assets/3f919876-64de-459f-8ae2-25765d4b1e27" />
+https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxyzd1.cfg
 
 ## Задание 2. Взвешенный Round‑robin на 7-м уровне (HTTP) + привязка к домену
 - Запущены три Python-сервера на портах `8003`, `8004`, `8005`.
