@@ -9,7 +9,7 @@
 
 <img width="601" height="246" alt="image" src="https://github.com/user-attachments/assets/e1eab782-10d1-4a3d-b2e5-7da94e17de8e" />
 
-https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxyzd1.cfg
+[haproxyzd1.cfg](https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxyzd1.cfg)
 
 ## Задание 2. Взвешенный Round‑robin на 7-м уровне (HTTP) + привязка к домену
 - Запущены три Python-сервера на портах `8003`, `8004`, `8005`.
@@ -29,7 +29,7 @@ https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxyzd1.cfg
 
 <img width="597" height="295" alt="image" src="https://github.com/user-attachments/assets/318ec4ee-2dbc-42f2-82fd-e99e3681306a" />
 
-https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxy.cfg
+[haproxy.cfg](https://github.com/Almsst/sflt-haproxy-lab/blob/master/haproxy.cfg)
 
 
 
